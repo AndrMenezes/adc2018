@@ -17,7 +17,7 @@ This note presents a brief description of the multinomial distribution and its i
 
 Joint work with my great friend and data scientist [Wesley Furriel](https://github.com/WOLFurriell).
 
-We used data colleted from a survey related to public opinion of brazilian citizens to applied the logistic regression model to two real problems.
+We used data colleted from surveys related to public opinion of brazilian citizens to applied the logistic regression model to real problems.
 
 First, we investigated if the religion and scholarity influence the person's opinion to believe that the abortion is justified.
 The data colleted from [Latin American Public Opinion Project](https://www.vanderbilt.edu/lapop/) (LAPOP) was considered.
